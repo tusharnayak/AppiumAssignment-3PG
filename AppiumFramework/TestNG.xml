@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ApiDemos application automation test">
+	<test name="ApiDemos">
+		<classes>
+			<class name="com.apidemos.qa.specs.BasicTestSpecs"></class>
+			<class name="com.apidemos.qa.specs.HorizontalSwipeSpec"></class>
+			<class name="com.apidemos.qa.specs.VerticalSwipeSpec"></class>
+		</classes>
+	</test>
+</suite>

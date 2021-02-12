@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ApiDemos application automation test" duration-ms="93426" started-at="2021-02-11T11:25:24 IST" finished-at="2021-02-11T11:26:57 IST">
+    <groups>
+    </groups>
+    <test name="ApiDemos" duration-ms="93426" started-at="2021-02-11T11:25:24 IST" finished-at="2021-02-11T11:26:57 IST">
+      <class name="com.apidemos.qa.specs.VerticalSwipeSpec">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.apidemos.qa.specs.VerticalSwipeSpec@27ce24aa]" name="setUp" is-config="true" duration-ms="16556" started-at="2021-02-11T11:26:25 IST" finished-at="2021-02-11T11:26:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="horizontalSwipe()[pri:0, instance:com.apidemos.qa.specs.VerticalSwipeSpec@27ce24aa]" name="horizontalSwipe" duration-ms="14646" started-at="2021-02-11T11:26:42 IST" finished-at="2021-02-11T11:26:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- horizontalSwipe -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apidemos.qa.specs.VerticalSwipeSpec@27ce24aa]" name="teardown" is-config="true" duration-ms="717" started-at="2021-02-11T11:26:57 IST" finished-at="2021-02-11T11:26:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apidemos.qa.specs.VerticalSwipeSpec -->
+      <class name="com.apidemos.qa.specs.BasicTestSpecs">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.apidemos.qa.specs.BasicTestSpecs@31c88ec8]" name="setUp" is-config="true" duration-ms="18448" started-at="2021-02-11T11:25:24 IST" finished-at="2021-02-11T11:25:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnPreference()[pri:0, instance:com.apidemos.qa.specs.BasicTestSpecs@31c88ec8]" name="clickOnPreference" duration-ms="5275" started-at="2021-02-11T11:25:42 IST" finished-at="2021-02-11T11:25:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnPreference -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apidemos.qa.specs.BasicTestSpecs@31c88ec8]" name="teardown" is-config="true" duration-ms="672" started-at="2021-02-11T11:25:48 IST" finished-at="2021-02-11T11:25:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apidemos.qa.specs.BasicTestSpecs -->
+      <class name="com.apidemos.qa.specs.HorizontalSwipeSpec">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.apidemos.qa.specs.HorizontalSwipeSpec@1cbbffcd]" name="setUp" is-config="true" duration-ms="16075" started-at="2021-02-11T11:25:48 IST" finished-at="2021-02-11T11:26:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="horizontalSwipe()[pri:0, instance:com.apidemos.qa.specs.HorizontalSwipeSpec@1cbbffcd]" name="horizontalSwipe" duration-ms="20335" started-at="2021-02-11T11:26:04 IST" finished-at="2021-02-11T11:26:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- horizontalSwipe -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.apidemos.qa.specs.HorizontalSwipeSpec@1cbbffcd]" name="teardown" is-config="true" duration-ms="652" started-at="2021-02-11T11:26:25 IST" finished-at="2021-02-11T11:26:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apidemos.qa.specs.HorizontalSwipeSpec -->
+    </test> <!-- ApiDemos -->
+  </suite> <!-- ApiDemos application automation test -->
+</testng-results>
